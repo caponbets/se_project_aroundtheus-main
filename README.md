@@ -16,5 +16,6 @@ The way you'll do this at work is by exporting images directly from Figma — we
 - [Link to video on google drive]
   https://drive.google.com/file/d/1T5YleOUXVWp4JrU2me-IE8Vh3Q-t1_XC/view?usp=sharing
 
-- [Link to the project on Github pages](https://github.com/caponbets/se_project_aroundtheus/settings/pages)
+- [Link to the project on Github pages](https://caponbets.github.io/se_project_aroundtheus)
+
 # se_project_aroundtheus-main
